@@ -1,0 +1,8 @@
+{
+  "name": "QUIRINO FINANÇAS",
+  "description": "Seu assistente financeiro pessoal inteligente com Gemini 3.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
